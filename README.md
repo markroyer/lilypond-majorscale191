@@ -6,7 +6,7 @@ fifths.  This is currently the sharps C, G, D, A, E, B, and C#.
 
 ## Setup
 
-Make sure that you have the following Debian TeX packages installed.
+Make sure that you have the following Debian package installed.
 
 ```
 lilypond
