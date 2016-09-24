@@ -6,7 +6,7 @@ The second page is for the flats: C, F, Bb, Eb, Ab, Db, Gb, Cb.
 
 ## PDF
 
-The The generated PDF can be found
+The generated PDF can be found
 [here](https://raw.githubusercontent.com/wiki/markroyer/lilypond-majorscale191/majorScale191.pdf
 "Major Scales").
 
@@ -43,5 +43,5 @@ will remove all generated files.
 The project is licensed under the terms of the
 [GPL3](https://www.gnu.org/licenses/gpl-3.0.en.html) license.
 
-<!--  LocalWords:  lilypond majorscale majorScale pdf
+<!--  LocalWords:  lilypond majorscale majorScale pdf Bb Eb Gb
  -->
