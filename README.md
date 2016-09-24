@@ -1,7 +1,14 @@
 # lilypond-majorscale191
 
 A lilypond script for creating 1-9-1 major scales for the circle of
-fifths.  This is currently the sharps C, G, D, A, E, B, and C#.
+fifths.  The first page is for the sharps: C, G, D, A, E, B, and C#.
+The second page is for the flats: C, F, Bb, Eb, Ab, Db, Gb, Cb.
+
+## PDF
+
+The The generated PDF can be found
+[here](https://raw.githubusercontent.com/wiki/markroyer/lilypond-majorscale191/majorScale191.pdf
+"Major Scales").
 
 
 ## Setup
@@ -30,10 +37,6 @@ make clean
 
 will remove all generated files.
 
-
-## PDF
-
-The output PDF can be found [here](https://raw.githubusercontent.com/wiki/markroyer/lilypond-majorscale191/majorScale191.pdf "Major Scales").
 
 ## License
 
